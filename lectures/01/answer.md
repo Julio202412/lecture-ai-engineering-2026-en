@@ -2,9 +2,9 @@
 
 ## Exercises
 
-- Model's answer to the course-specific question (the 3 homework levels; a summary is fine):
-- What you noticed when comparing it with the correct meaning in the glossary:
-- Token counts you displayed (input / output):18 / 336 
+- Model's answer to the course-specific question (the 3 homework levels; a summary is fine): `gemini-3.5-flash-lite` guessed Foundations/Core, Intermediate/Application, and Advanced/Production.
+- What you noticed when comparing it with the correct meaning in the glossary: The glossary says Basic (review lecture content), Implementation (write your own code), and Advanced (research and experimentation). The model's confident answer was incorrect.
+- Token counts you displayed (input / output): `gemini-3.5-flash-lite`: 18 / 336 tokens.
 
 ## Homework
 
