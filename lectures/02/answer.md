@@ -7,7 +7,7 @@
   - LoRA settings: r = 32, alpha = 32, lr = 0.0002, num_train_epochs = 20
 - Did you run training yourself (`executed_training_myself`): Yes
 - Before training: `format_rate` = 1.0 / `content_rate` = 0.8095
-- After training: `format_rate` = 1.0 / `content_rate` = 0.9048
+- After training: `format_rate` = 1.0 / `content_rate` = 0.9048 
 - Questions that regressed: None (`[]`)
 - Failures remaining after training and their types (assertion without evidence / evasion through a confirmation request despite evidence being present / broken format):
   - A few ungrounded questions (where `needs_review: true` was expected) still failed because the model made assertions instead of requesting confirmation (assertion without evidence).
